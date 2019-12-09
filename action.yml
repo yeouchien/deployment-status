@@ -6,8 +6,8 @@ inputs:
     description: "State for the deployment"
   token:
     description: "Github repository token"
-  target-url:
-    description: "Target url location"
+  log_url:
+    description: "Log URL location"
   description:
     description: "Descriptive message about the deployment"
   deployment_id:
